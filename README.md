@@ -9,7 +9,7 @@
 
 ## 💡 The Problem
 
-Finding student housing is often unsafe, expensiv, and filled with scams. Students also struggle to connect with potential roommates or discover local events relevant to their community.
+Finding student housing is often unsafe, expensive and filled with scams. Students also struggle to connect with potential roommates or discover local events relevant to their community.
 
 ---
 
