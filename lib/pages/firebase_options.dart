@@ -28,13 +28,11 @@ class DefaultFirebaseOptions {
         return macos;
       case TargetPlatform.windows:
         throw UnsupportedError(
-          'DefaultFirebaseOptions have not been configured for windows - '
-          'you can reconfigure this by running the FlutterFire CLI again.',
+          'DefaultFirebaseOptions have not been configured for windows.',
         );
       case TargetPlatform.linux:
         throw UnsupportedError(
-          'DefaultFirebaseOptions have not been configured for linux - '
-          'you can reconfigure this by running the FlutterFire CLI again.',
+          'DefaultFirebaseOptions have not been configured for linux.',
         );
       default:
         throw UnsupportedError(
@@ -44,38 +42,38 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyASHutGOefyuvKDrO0v6vVEahE2BIJYSWc',
-    appId: '1:679307212751:web:b5886453ff609aa00b04ba',
-    messagingSenderId: '679307212751',
-    projectId: 'studentcore-35124',
-    authDomain: 'studentcore-35124.firebaseapp.com',
-    storageBucket: 'studentcore-35124.appspot.com',
-    measurementId: 'G-G6RNR9DXW8',
+    apiKey: '[REDACTED]',
+    appId: '[REDACTED]',
+    messagingSenderId: '[REDACTED]',
+    projectId: 'studentcore-demo',
+    authDomain: '[REDACTED]',
+    storageBucket: '[REDACTED]',
+    measurementId: '[REDACTED]',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCHmUXtY3ukf-HRE-l95SH9FrcnNDFIXBA',
-    appId: '1:679307212751:android:fdaff642d705e9220b04ba',
-    messagingSenderId: '679307212751',
-    projectId: 'studentcore-35124',
-    storageBucket: 'studentcore-35124.appspot.com',
+    apiKey: '[REDACTED]',
+    appId: '[REDACTED]',
+    messagingSenderId: '[REDACTED]',
+    projectId: 'studentcore-demo',
+    storageBucket: '[REDACTED]',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC1ihSHYXsgGlLxC6VtrsHL-kAbiYwU6R8',
-    appId: '1:679307212751:ios:8c8f1d6bbfd14e020b04ba',
-    messagingSenderId: '679307212751',
-    projectId: 'studentcore-35124',
-    storageBucket: 'studentcore-35124.appspot.com',
-    iosBundleId: 'com.example.studentCore',
+    apiKey: '[REDACTED]',
+    appId: '[REDACTED]',
+    messagingSenderId: '[REDACTED]',
+    projectId: 'studentcore-demo',
+    storageBucket: '[REDACTED]',
+    iosBundleId: '[REDACTED]',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyC1ihSHYXsgGlLxC6VtrsHL-kAbiYwU6R8',
-    appId: '1:679307212751:ios:aa86d2d5d6fb7b360b04ba',
-    messagingSenderId: '679307212751',
-    projectId: 'studentcore-35124',
-    storageBucket: 'studentcore-35124.appspot.com',
-    iosBundleId: 'com.example.studentCore.RunnerTests',
+    apiKey: '[REDACTED]',
+    appId: '[REDACTED]',
+    messagingSenderId: '[REDACTED]',
+    projectId: 'studentcore-demo',
+    storageBucket: '[REDACTED]',
+    iosBundleId: '[REDACTED]',
   );
 }
