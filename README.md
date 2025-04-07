@@ -51,11 +51,15 @@ Focused on:
 
 ## 📸 Screenshots 
 
-These are some screenshots of:
+Here are some screenshots of:
 
-- 🏠 Housing dashboard  
+- Login and Registration <br>
+  <br>
+  ![Login and Registration](./assets/StudentCore_login.png)
 
-- 📆 Event creation & RSVP
+- 🏠 Housing dashboard & 📆 Event creation & RSVP <br>
+  <br>
+  ![Housing dashboard](./assets/StudentCore_homepage.png)
 
 ---
 
