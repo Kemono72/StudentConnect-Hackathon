@@ -3,7 +3,7 @@
 **StudentConnect** is a fullstack hackathon-built platform that connects verified university students with **secure housing listings**, **roommate matches** and **campus events**. Designed with student safety, community and usability in mind.
 
 > 🏆 **Top 10 Finalist** – Seneca Housing Hackathon 2024  
-> 🧑‍💻 Built by a team of 5 in under 36 hours
+> 🧑‍💻 Built by a team of 4 in under 36 hours
 
 ---
 
