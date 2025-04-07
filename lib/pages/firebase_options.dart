@@ -42,38 +42,38 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: '[REDACTED]',
-    appId: '[REDACTED]',
-    messagingSenderId: '[REDACTED]',
+    apiKey: '[REDACTED_FOR_PUBLIC]',
+    appId: '[REDACTED_FOR_PUBLIC]',
+    messagingSenderId: '[REDACTED_FOR_PUBLIC]',
     projectId: 'studentcore-demo',
-    authDomain: '[REDACTED]',
-    storageBucket: '[REDACTED]',
-    measurementId: '[REDACTED]',
+    authDomain: '[REDACTED_FOR_PUBLIC]',
+    storageBucket: '[REDACTED_FOR_PUBLIC]',
+    measurementId: '[REDACTED_FOR_PUBLIC]',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: '[REDACTED]',
-    appId: '[REDACTED]',
-    messagingSenderId: '[REDACTED]',
+    apiKey: '[REDACTED_FOR_PUBLIC]',
+    appId: '[REDACTED_FOR_PUBLIC]',
+    messagingSenderId: '[REDACTED_FOR_PUBLIC]',
     projectId: 'studentcore-demo',
-    storageBucket: '[REDACTED]',
+    storageBucket: '[REDACTED_FOR_PUBLIC]',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: '[REDACTED]',
-    appId: '[REDACTED]',
-    messagingSenderId: '[REDACTED]',
+    apiKey: '[REDACTED_FOR_PUBLIC]',
+    appId: '[REDACTED_FOR_PUBLIC]',
+    messagingSenderId: '[REDACTED_FOR_PUBLIC]',
     projectId: 'studentcore-demo',
-    storageBucket: '[REDACTED]',
-    iosBundleId: '[REDACTED]',
+    storageBucket: '[REDACTED_FOR_PUBLIC]',
+    iosBundleId: '[REDACTED_FOR_PUBLIC]',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: '[REDACTED]',
-    appId: '[REDACTED]',
-    messagingSenderId: '[REDACTED]',
+    apiKey: '[REDACTED_FOR_PUBLIC]',
+    appId: '[REDACTED_FOR_PUBLIC]',
+    messagingSenderId: '[REDACTED_FOR_PUBLIC]',
     projectId: 'studentcore-demo',
-    storageBucket: '[REDACTED]',
-    iosBundleId: '[REDACTED]',
+    storageBucket: '[REDACTED_FOR_PUBLIC]',
+    iosBundleId: '[REDACTED_FOR_PUBLIC]',
   );
 }
