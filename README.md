@@ -49,12 +49,12 @@ Focused on:
 
 ---
 
-## 📸 Screenshots (Coming Soon)
+## 📸 Screenshots 
 
-We’re gathering screenshots of:
+These are some screenshots of:
+
 - 🏠 Housing dashboard  
-- 💬 Chat & verification system  
-- 📱 Mobile app UI for roommate flow  
+
 - 📆 Event creation & RSVP
 
 ---
@@ -70,7 +70,7 @@ We’re gathering screenshots of:
 
 ## 🧪 Hackathon Outcome
 
-- 🔥 MVP completed in ~36 hours  
+- 🔥 Completed in ~36 hours  
 - 🧑‍🎓 Validated with real student feedback  
 - 👩‍🏫 Presentation delivered to judges & mentors  
 - 🏆 Placed **Top 10 Finalist** out of 100+ teams
